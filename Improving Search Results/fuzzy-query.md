@@ -1,4 +1,4 @@
-# `fuzzy` query
+9# `fuzzy` query
 
 ```
 GET /products/_search
